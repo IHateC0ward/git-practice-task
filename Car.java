@@ -1,5 +1,6 @@
 // 自動車クラス【第１版】Carを書く
 class Car{
+    // feature branch edit
 private String name;
 private double x;
 private double y;
